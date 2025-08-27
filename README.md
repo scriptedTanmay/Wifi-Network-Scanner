@@ -13,10 +13,6 @@ Perfect for **students, ethical hackers, and network administrators** who want a
 - ✅ Export scan results to CSV  
 - ✅ Modern GUI using `customtkinter`  
 
----
-
-## 📸 Screenshots
-*(Add screenshots after running the tool)*
 
 ---
 
